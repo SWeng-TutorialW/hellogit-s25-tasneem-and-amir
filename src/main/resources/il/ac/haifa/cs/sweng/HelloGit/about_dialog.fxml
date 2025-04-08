@@ -26,9 +26,15 @@
 		<font>
 			<Font size="31.0" />
 		</font>
-	</Label>
-	<Label>Amirrrrr</Label>
-
+	</Label>S
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Amirrrrr"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
 
 </VBox>
 
