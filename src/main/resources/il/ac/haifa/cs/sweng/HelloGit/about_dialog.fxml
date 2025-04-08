@@ -32,9 +32,5 @@
 		   text="Amirrrrr"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS"
-
-
-
-
 </VBox>
 
